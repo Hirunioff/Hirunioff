@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hiruni
-- 👀 I’m interested in cybersecurity and technology.
-- 🌱 I’m currently learning at Edith Cowan University as a cybersecurity undergrad student.
-- 💞️ I’m looking to collaborate on projects related to cybersecurity or software development.
+- 👀 Interested in cybersecurity and technology.
+- 🌱 Cybersecurity undergrad at Edith Cowan University
+- 💞️  Interested in collaborating on cybersecurity and software dev projects.
 - 📫 How to reach me: hirunihansikaoff@gmail.com 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy exploring ethical hacking and experimenting with new security tools.
